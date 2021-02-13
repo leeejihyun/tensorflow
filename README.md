@@ -16,7 +16,7 @@
 * 부록1: 데이터를 위한 팁 - [코드](https://github.com/leeejihyun/tensorflow/blob/main/ml-yah-ac/Tensorflow%20(python)/%5B7%5D%20%EB%B6%80%EB%A1%9D1_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%ED%8C%81.ipynb)
 * 부록2: 모델을 위한 팁 - [코드1](https://github.com/leeejihyun/tensorflow/blob/main/ml-yah-ac/Tensorflow%20(python)/%5B8%5D%20%EB%B6%80%EB%A1%9D2_%EB%AA%A8%EB%8D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%8C%81_%EB%B3%B4%EC%8A%A4%ED%84%B4.ipynb), [코드2](https://github.com/leeejihyun/tensorflow/blob/main/ml-yah-ac/Tensorflow%20(python)/%5B8%5D%20%EB%B6%80%EB%A1%9D2_%EB%AA%A8%EB%8D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%8C%81_%EC%95%84%EC%9D%B4%EB%A6%AC%EC%8A%A4.ipynb)
 
-### Tensorflow 이미지 분류 - CNN (python)
+### Tensorflow 이미지 분류 - CNN (python) - [블로그](https://leeejihyun.tistory.com/21)
 * 이미지 데이터 이해 - [코드](https://github.com/leeejihyun/tensorflow/blob/main/ml-yah-ac/Tensorflow%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B6%84%EB%A5%98%20-%20CNN%20(python)/%5B0%5D%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9D%B4%ED%95%B4.ipynb)
 * 다섯번째 딥러닝 1 - Flatten - [코드](https://github.com/leeejihyun/tensorflow/blob/main/ml-yah-ac/Tensorflow%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B6%84%EB%A5%98%20-%20CNN%20(python)/%5B1%5D%20%EB%8B%A4%EC%84%AF%EB%B2%88%EC%A7%B8%20%EB%94%A5%EB%9F%AC%EB%8B%9D%201%20-%20Flatten.ipynb)
 * 다섯번째 딥러닝 2 - Conv2D - [코드](https://github.com/leeejihyun/tensorflow/blob/main/ml-yah-ac/Tensorflow%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B6%84%EB%A5%98%20-%20CNN%20(python)/%5B2%5D%20%EB%8B%A4%EC%84%AF%EB%B2%88%EC%A7%B8%20%EB%94%A5%EB%9F%AC%EB%8B%9D%202%20-%20Conv2D.ipynb)
