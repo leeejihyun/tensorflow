@@ -6,40 +6,40 @@
 
 ## 모두를 위한 딥러닝 강좌 시즌 1
 * ML lab 01 - TensorFlow의 설치및 기본적인 operations (new)
-  * lab-01-basics
+  * lab-01-basics - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-01-basics.ipynb)
 * ML lab 02 - TensorFlow로 간단한 linear regression을 구현 (new)
-  * lab-02-1-linear_regression
-  * lab-02-2-linear_regression_feed
-  * lab-02-3-linear_regression_tensorflow.org
+  * lab-02-1-linear_regression - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-02-1-linear_regression.ipynb)
+  * lab-02-2-linear_regression_feed - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-02-2-linear_regression_feed.ipynb)
+  * lab-02-3-linear_regression_tensorflow.org - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-02-3-linear_regression_tensorflow.org.ipynb)
 * ML lab 03 - Linear Regression 의 cost 최소화의 TensorFlow 구현 (new)
-  * lab-03-1-minimizing_cost_show_graph
-  * lab-03-2-minimizing_cost_gradient_update
-  * lab-03-3-minimizing_cost_tf_optimizer
-  * lab-03-X-minimizing_cost_tf_gradient
+  * lab-03-1-minimizing_cost_show_graph - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-03-1-minimizing_cost_show_graph.ipynb)
+  * lab-03-2-minimizing_cost_gradient_update - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-03-2-minimizing_cost_gradient_update.ipynb)
+  * lab-03-3-minimizing_cost_tf_optimizer - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-03-3-minimizing_cost_tf_optimizer.ipynb)
+  * lab-03-X-minimizing_cost_tf_gradient - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-03-X-minimizing_cost_tf_gradient.ipynb)
 * ML lab 04-1: multi-variable linear regression을 TensorFlow에서 구현하기 (new)
 * ML lab 04-2: TensorFlow로 파일에서 데이타 읽어오기 (new)
-  * lab-04-1-multi_variable_linear_regression
-  * lab-04-2-multi_variable_matmul_linear_regression
-  * lab-04-3-file_input_linear_regression
-  * lab-04-4-tf_reader_linear_regression
+  * lab-04-1-multi_variable_linear_regression - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-04-1-multi_variable_linear_regression.ipynb)
+  * lab-04-2-multi_variable_matmul_linear_regression - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-04-2-multi_variable_matmul_linear_regression.ipynb)
+  * lab-04-3-file_input_linear_regression - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-04-3-file_input_linear_regression.ipynb)
+  * lab-04-4-tf_reader_linear_regression - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-04-4-tf_reader_linear_regression.ipynb)
 * ML lab 05: TensorFlow로 Logistic Classification의 구현하기 (new)
-  * lab-05-1-logistic_regression
-  * lab-05-2-logistic_regression_diabetes
+  * lab-05-1-logistic_regression - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-05-1-logistic_regression.ipynb)
+  * lab-05-2-logistic_regression_diabetes - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-05-2-logistic_regression_diabetes.ipynb)
 * ML lab 06-1: TensorFlow로 Softmax Classification의 구현하기
 * ML lab 06-2: TensorFlow로 Fancy Softmax Classification의 구현하기
-  * lab-06-1-softmax_classifier
-  * lab-06-2-softmax_zoo_classifier
+  * lab-06-1-softmax_classifier - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-06-1-softmax_classifier.ipynb)
+  * lab-06-2-softmax_zoo_classifier - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-06-2-softmax_zoo_classifier.ipynb)
 * ML lab 07-1: training/test dataset, learning rate, normalization
 * ML lab 07-2: Meet MNIST Dataset
-  * lab-07-1-learning_rate_and_evaluation
-  * lab-07-2-linear_regression_without_min_max
-  * lab-07-3-linear_regression_min_max
-  * lab-07-4-mnist_introduction
+  * lab-07-1-learning_rate_and_evaluation - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-07-1-learning_rate_and_evaluation.ipynb)
+  * lab-07-2-linear_regression_without_min_max - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-07-2-linear_regression_without_min_max.ipynb)
+  * lab-07-3-linear_regression_min_max - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-07-3-linear_regression_min_max.ipynb)
+  * lab-07-4-mnist_introduction - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-07-4-mnist_introduction.ipynb)
 * ML lab 08: Tensor Manipulation
-  * lab-08-tensor_manipulation
+  * lab-08-tensor_manipulation - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-08-tensor_manipulation.ipynb)
 * ML lab 09-1: Neural Net for XOR
 * ML lab 09-2: Tensorboard (Neural Net for XOR)
-  * lab-09-1-xor
+  * lab-09-1-xor - [코드](https://github.com/leeejihyun/tensorflow/blob/main/DeepLearningZeroToAll/lab-09-1-xor.ipynb)
 
 ## 머신러닝 야학(2기)
 ### Tensorflow (python) - [블로그](https://leeejihyun.tistory.com/12?category=902184)
