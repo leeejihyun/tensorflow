@@ -4,6 +4,43 @@
 머신러닝 야학과 같은 사이트에서 텐서플로우를 실습한 코드를 올릴 예정입니다.  
 강의 내용도 함께 정리하고 있어 블로그 링크도 첨부합니다.  
 
+## 모두를 위한 딥러닝 강좌 시즌 1
+* ML lab 01 - TensorFlow의 설치및 기본적인 operations (new)
+  * lab-01-basics
+* ML lab 02 - TensorFlow로 간단한 linear regression을 구현 (new)
+  * lab-02-1-linear_regression
+  * lab-02-2-linear_regression_feed
+  * lab-02-3-linear_regression_tensorflow.org
+* ML lab 03 - Linear Regression 의 cost 최소화의 TensorFlow 구현 (new)
+  * lab-03-1-minimizing_cost_show_graph
+  * lab-03-2-minimizing_cost_gradient_update
+  * lab-03-3-minimizing_cost_tf_optimizer
+  * lab-03-X-minimizing_cost_tf_gradient
+* ML lab 04-1: multi-variable linear regression을 TensorFlow에서 구현하기 (new)
+* ML lab 04-2: TensorFlow로 파일에서 데이타 읽어오기 (new)
+  * lab-04-1-multi_variable_linear_regression
+  * lab-04-2-multi_variable_matmul_linear_regression
+  * lab-04-3-file_input_linear_regression
+  * lab-04-4-tf_reader_linear_regression
+* ML lab 05: TensorFlow로 Logistic Classification의 구현하기 (new)
+  * lab-05-1-logistic_regression
+  * lab-05-2-logistic_regression_diabetes
+* ML lab 06-1: TensorFlow로 Softmax Classification의 구현하기
+* ML lab 06-2: TensorFlow로 Fancy Softmax Classification의 구현하기
+  * lab-06-1-softmax_classifier
+  * lab-06-2-softmax_zoo_classifier
+* ML lab 07-1: training/test dataset, learning rate, normalization
+* ML lab 07-2: Meet MNIST Dataset
+  * lab-07-1-learning_rate_and_evaluation
+  * lab-07-2-linear_regression_without_min_max
+  * lab-07-3-linear_regression_min_max
+  * lab-07-4-mnist_introduction
+* ML lab 08: Tensor Manipulation
+  * lab-08-tensor_manipulation
+* ML lab 09-1: Neural Net for XOR
+* ML lab 09-2: Tensorboard (Neural Net for XOR)
+  * lab-09-1-xor
+
 ## 머신러닝 야학(2기)
 ### Tensorflow (python) - [블로그](https://leeejihyun.tistory.com/12?category=902184)
 * 실습 환경 - Google Colaboratory - [코드](https://github.com/leeejihyun/tensorflow/blob/main/ml-yah-ac/Tensorflow%20(python)/%5B0%5D%20Untitled)
